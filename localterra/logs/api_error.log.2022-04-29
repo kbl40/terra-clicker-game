@@ -1,0 +1,2 @@
+04-29 00:03 [ERROR]: RPC request to /block_results failed by RequestError: Error: getaddrinfo EAI_AGAIN terrad
+04-29 12:32 [ERROR]: RPC request to /block_results failed by RequestError: Error: socket hang up

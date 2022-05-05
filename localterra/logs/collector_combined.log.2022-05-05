@@ -1,0 +1,1680 @@
+05-05 00:03 [INFO]: RPCWatcher: connection lost
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25714
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: RPCWatcher: connection established
+05-05 00:03 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25715
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25716
+05-05 00:03 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:03 [INFO]: collectReward: Thu May 05 2022 00:02:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:03 [INFO]: collectNetwork: Thu May 05 2022 00:02:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:03 [INFO]: collectPrice: Thu May 05 2022 00:02:00 GMT+0000 (Coordinated Universal Time) 81.07759345249713ueur,107638.78556756426ukrw,64.17130071712958usdr,85.99203844990946uusd
+05-05 00:03 [INFO]: collectGeneral: Thu May 05 2022 00:02:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25717
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: Trying to run process ProposalCollector
+05-05 00:03 [INFO]: Process ProposalCollector starting...
+05-05 00:03 [INFO]: Proposal collector started.
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25718
+05-05 00:03 [INFO]: Checking for deleted proposals
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: Proposal collector completed.
+05-05 00:03 [INFO]: Process ProposalCollector ended.
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25719
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25720
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25721
+05-05 00:03 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25722
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:03 [INFO]: collectBlock: begin transaction for block 25723
+05-05 00:03 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25724
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25725
+05-05 00:04 [INFO]: collectReward: Thu May 05 2022 00:03:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:04 [INFO]: collectNetwork: Thu May 05 2022 00:03:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:04 [INFO]: collectPrice: Thu May 05 2022 00:03:00 GMT+0000 (Coordinated Universal Time) 81.12181866528542ueur,107843.01096459478ukrw,64.30383231024754usdr,86.16963593856664uusd
+05-05 00:04 [INFO]: collectGeneral: Thu May 05 2022 00:03:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25726
+05-05 00:04 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25727
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: RPCWatcher: connection lost
+05-05 00:04 [INFO]: RPCWatcher: connection established
+05-05 00:04 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25728
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:04 [INFO]: collectBlock: begin transaction for block 25729
+05-05 00:04 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25730
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25731
+05-05 00:05 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:05 [INFO]: collectReward: Thu May 05 2022 00:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:05 [INFO]: collectNetwork: Thu May 05 2022 00:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:05 [INFO]: collectPrice: Thu May 05 2022 00:04:00 GMT+0000 (Coordinated Universal Time) 81.12181866528542ueur,107843.01096459478ukrw,64.30383231024754usdr,86.16963593856664uusd
+05-05 00:05 [INFO]: collectGeneral: Thu May 05 2022 00:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25732
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25733
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25734
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25735
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:05 [INFO]: Trying to run process ProposalCollector
+05-05 00:05 [INFO]: Process ProposalCollector starting...
+05-05 00:05 [INFO]: Proposal collector started.
+05-05 00:05 [INFO]: Checking for deleted proposals
+05-05 00:05 [INFO]: Proposal collector completed.
+05-05 00:05 [INFO]: Process ProposalCollector ended.
+05-05 00:05 [INFO]: collectBlock: begin transaction for block 25736
+05-05 00:05 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:05 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25737
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25738
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25739
+05-05 00:23 [INFO]: collectReward: Thu May 05 2022 00:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:23 [INFO]: collectNetwork: Thu May 05 2022 00:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:23 [INFO]: collectPrice: Thu May 05 2022 00:22:00 GMT+0000 (Coordinated Universal Time) 81.28110091319947ueur,108092.32497303456ukrw,64.42518201280626usdr,86.36726940867642uusd
+05-05 00:23 [INFO]: collectGeneral: Thu May 05 2022 00:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25740
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25741
+05-05 00:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: Trying to run process ProposalCollector
+05-05 00:23 [INFO]: Process ProposalCollector starting...
+05-05 00:23 [INFO]: Proposal collector started.
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25742
+05-05 00:23 [INFO]: Checking for deleted proposals
+05-05 00:23 [INFO]: Proposal collector completed.
+05-05 00:23 [INFO]: Process ProposalCollector ended.
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25743
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25744
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25745
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25746
+05-05 00:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:23 [INFO]: collectBlock: begin transaction for block 25747
+05-05 00:23 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25748
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25749
+05-05 00:24 [INFO]: collectReward: Thu May 05 2022 00:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:24 [INFO]: collectNetwork: Thu May 05 2022 00:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:24 [INFO]: collectPrice: Thu May 05 2022 00:23:00 GMT+0000 (Coordinated Universal Time) 80.90426079265647ueur,107701.87126231223ukrw,64.12797211141887usdr,85.93397643329737uusd
+05-05 00:24 [INFO]: collectGeneral: Thu May 05 2022 00:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25750
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25751
+05-05 00:24 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25752
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25753
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: Trying to run process ProposalCollector
+05-05 00:24 [INFO]: Process ProposalCollector starting...
+05-05 00:24 [INFO]: Proposal collector started.
+05-05 00:24 [INFO]: Checking for deleted proposals
+05-05 00:24 [INFO]: Proposal collector completed.
+05-05 00:24 [INFO]: Process ProposalCollector ended.
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25754
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25755
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25756
+05-05 00:24 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25757
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25758
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:24 [INFO]: collectBlock: begin transaction for block 25759
+05-05 00:24 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25760
+05-05 00:25 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: RPCWatcher: connection lost
+05-05 00:25 [INFO]: RPCWatcher: connection established
+05-05 00:25 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25761
+05-05 00:25 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:25 [INFO]: collectReward: Thu May 05 2022 00:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:25 [INFO]: collectNetwork: Thu May 05 2022 00:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:25 [INFO]: collectPrice: Thu May 05 2022 00:24:00 GMT+0000 (Coordinated Universal Time) 80.848103019389ueur,107656.45386920488ukrw,64.10116162589644usdr,85.89804934009307uusd
+05-05 00:25 [INFO]: collectGeneral: Thu May 05 2022 00:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:25 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25762
+05-05 00:25 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:25 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25763
+05-05 00:25 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25764
+05-05 00:25 [INFO]: collectBlock: transaction finished
+05-05 00:25 [INFO]: collectBlock: begin transaction for block 25765
+05-05 00:26 [INFO]: collectBlock: transaction finished
+05-05 00:26 [INFO]: collectBlock: begin transaction for block 25766
+05-05 00:26 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:26 [INFO]: collectBlock: transaction finished
+05-05 00:26 [INFO]: collectBlock: begin transaction for block 25767
+05-05 00:26 [INFO]: collectReward: Thu May 05 2022 00:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:26 [INFO]: collectNetwork: Thu May 05 2022 00:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:26 [INFO]: collectPrice: Thu May 05 2022 00:25:00 GMT+0000 (Coordinated Universal Time) 80.848103019389ueur,107656.45386920488ukrw,64.10116162589644usdr,85.89804934009307uusd
+05-05 00:26 [INFO]: collectGeneral: Thu May 05 2022 00:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:26 [INFO]: collectBlock: transaction finished
+05-05 00:26 [INFO]: collectBlock: begin transaction for block 25768
+05-05 00:26 [INFO]: collectBlock: transaction finished
+05-05 00:26 [INFO]: collectBlock: begin transaction for block 25769
+05-05 00:26 [INFO]: collectBlock: transaction finished
+05-05 00:26 [INFO]: collectBlock: begin transaction for block 25770
+05-05 00:30 [INFO]: RPCWatcher: connection lost
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: RPCWatcher: connection established
+05-05 00:30 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25771
+05-05 00:30 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25772
+05-05 00:30 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:30 [INFO]: collectReward: Thu May 05 2022 00:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:30 [INFO]: collectNetwork: Thu May 05 2022 00:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:30 [INFO]: collectPrice: Thu May 05 2022 00:29:00 GMT+0000 (Coordinated Universal Time) 
+05-05 00:30 [INFO]: collectGeneral: Thu May 05 2022 00:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25773
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: Trying to run process ProposalCollector
+05-05 00:30 [INFO]: Process ProposalCollector starting...
+05-05 00:30 [INFO]: Proposal collector started.
+05-05 00:30 [INFO]: Checking for deleted proposals
+05-05 00:30 [INFO]: Proposal collector completed.
+05-05 00:30 [INFO]: Process ProposalCollector ended.
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25774
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25775
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25776
+05-05 00:30 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25777
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25778
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:30 [INFO]: collectBlock: begin transaction for block 25779
+05-05 00:30 [INFO]: collectBlock: transaction finished
+05-05 00:31 [INFO]: collectBlock: begin transaction for block 25780
+05-05 00:47 [INFO]: RPCWatcher: connection lost
+05-05 00:47 [INFO]: collectBlock: transaction finished
+05-05 00:47 [INFO]: RPCWatcher: connection established
+05-05 00:47 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25781
+05-05 00:48 [INFO]: collectReward: Thu May 05 2022 00:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectNetwork: Thu May 05 2022 00:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectPrice: Thu May 05 2022 00:30:00 GMT+0000 (Coordinated Universal Time) 
+05-05 00:48 [INFO]: collectGeneral: Thu May 05 2022 00:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25782
+05-05 00:48 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:48 [INFO]: collectReward: Thu May 05 2022 00:46:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectNetwork: Thu May 05 2022 00:46:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectPrice: Thu May 05 2022 00:46:00 GMT+0000 (Coordinated Universal Time) 
+05-05 00:48 [INFO]: collectGeneral: Thu May 05 2022 00:46:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25783
+05-05 00:48 [INFO]: collectReward: Thu May 05 2022 00:47:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectNetwork: Thu May 05 2022 00:47:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectPrice: Thu May 05 2022 00:47:00 GMT+0000 (Coordinated Universal Time) 
+05-05 00:48 [INFO]: collectGeneral: Thu May 05 2022 00:47:00 GMT+0000 (Coordinated Universal Time)
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25784
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25785
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25786
+05-05 00:48 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: Trying to run process ProposalCollector
+05-05 00:48 [INFO]: Process ProposalCollector starting...
+05-05 00:48 [INFO]: Proposal collector started.
+05-05 00:48 [INFO]: Checking for deleted proposals
+05-05 00:48 [INFO]: Proposal collector completed.
+05-05 00:48 [INFO]: Process ProposalCollector ended.
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25787
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25788
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25789
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25790
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25791
+05-05 00:48 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 00:48 [INFO]: collectBlock: begin transaction for block 25792
+05-05 00:48 [INFO]: collectBlock: transaction finished
+05-05 01:05 [INFO]: collectBlock: begin transaction for block 25793
+05-05 01:05 [INFO]: collectBlock: transaction finished
+05-05 01:05 [INFO]: collectBlock: begin transaction for block 25794
+05-05 01:05 [INFO]: collectReward: Thu May 05 2022 01:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:05 [INFO]: collectNetwork: Thu May 05 2022 01:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:05 [INFO]: collectPrice: Thu May 05 2022 01:04:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:05 [INFO]: collectGeneral: Thu May 05 2022 01:04:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:05 [INFO]: collectBlock: transaction finished
+05-05 01:05 [INFO]: collectBlock: begin transaction for block 25795
+05-05 01:05 [INFO]: collectBlock: transaction finished
+05-05 01:05 [INFO]: collectBlock: begin transaction for block 25796
+05-05 01:05 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:05 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: collectBlock: begin transaction for block 25797
+05-05 01:06 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: collectBlock: begin transaction for block 25798
+05-05 01:06 [INFO]: collectReward: Thu May 05 2022 01:05:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:06 [INFO]: collectNetwork: Thu May 05 2022 01:05:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:06 [INFO]: collectPrice: Thu May 05 2022 01:05:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:06 [INFO]: collectGeneral: Thu May 05 2022 01:05:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:06 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: collectBlock: begin transaction for block 25799
+05-05 01:06 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: collectBlock: begin transaction for block 25800
+05-05 01:06 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: collectBlock: begin transaction for block 25801
+05-05 01:06 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:06 [INFO]: collectBlock: transaction finished
+05-05 01:06 [INFO]: Trying to run process ProposalCollector
+05-05 01:06 [INFO]: Process ProposalCollector starting...
+05-05 01:06 [INFO]: Proposal collector started.
+05-05 01:11 [INFO]: Checking for deleted proposals
+05-05 01:11 [ERROR]: Failed to run process ProposalCollector
+05-05 01:11 [ERROR]: Process ProposalCollector failed with error Error: Timeout failed ProposalCollector
+05-05 01:11 [INFO]: Proposal collector completed.
+05-05 01:11 [INFO]: RPCWatcher: connection lost
+05-05 01:11 [INFO]: RPCWatcher: connection established
+05-05 01:11 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25802
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25803
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25804
+05-05 01:11 [INFO]: collectReward: Thu May 05 2022 01:10:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:11 [INFO]: collectNetwork: Thu May 05 2022 01:10:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:11 [INFO]: collectPrice: Thu May 05 2022 01:10:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:11 [INFO]: collectGeneral: Thu May 05 2022 01:10:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25805
+05-05 01:11 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25806
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25807
+05-05 01:11 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:11 [INFO]: collectBlock: begin transaction for block 25808
+05-05 01:11 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25809
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25810
+05-05 01:12 [INFO]: collectReward: Thu May 05 2022 01:11:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:12 [INFO]: collectNetwork: Thu May 05 2022 01:11:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:12 [INFO]: collectPrice: Thu May 05 2022 01:11:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:12 [INFO]: collectGeneral: Thu May 05 2022 01:11:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25811
+05-05 01:12 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25812
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25813
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25814
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: Trying to run process ProposalCollector
+05-05 01:12 [INFO]: Process ProposalCollector starting...
+05-05 01:12 [INFO]: Proposal collector started.
+05-05 01:12 [INFO]: Checking for deleted proposals
+05-05 01:12 [INFO]: Proposal collector completed.
+05-05 01:12 [INFO]: Process ProposalCollector ended.
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25815
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25816
+05-05 01:12 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25817
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25818
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25819
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:12 [INFO]: collectBlock: begin transaction for block 25820
+05-05 01:12 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25821
+05-05 01:13 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25822
+05-05 01:13 [INFO]: collectReward: Thu May 05 2022 01:12:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:13 [INFO]: collectNetwork: Thu May 05 2022 01:12:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:13 [INFO]: collectPrice: Thu May 05 2022 01:12:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:13 [INFO]: collectGeneral: Thu May 05 2022 01:12:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25823
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25824
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25825
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25826
+05-05 01:13 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: Trying to run process ProposalCollector
+05-05 01:13 [INFO]: Process ProposalCollector starting...
+05-05 01:13 [INFO]: Proposal collector started.
+05-05 01:13 [INFO]: Checking for deleted proposals
+05-05 01:13 [INFO]: Proposal collector completed.
+05-05 01:13 [INFO]: Process ProposalCollector ended.
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25827
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25828
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25829
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25830
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25831
+05-05 01:13 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:13 [INFO]: collectBlock: begin transaction for block 25832
+05-05 01:13 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25833
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25834
+05-05 01:14 [INFO]: collectReward: Thu May 05 2022 01:13:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:14 [INFO]: collectNetwork: Thu May 05 2022 01:13:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:14 [INFO]: collectPrice: Thu May 05 2022 01:13:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:14 [INFO]: collectGeneral: Thu May 05 2022 01:13:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25835
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25836
+05-05 01:14 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25837
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25838
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: Trying to run process ProposalCollector
+05-05 01:14 [INFO]: Process ProposalCollector starting...
+05-05 01:14 [INFO]: Proposal collector started.
+05-05 01:14 [INFO]: Checking for deleted proposals
+05-05 01:14 [INFO]: Proposal collector completed.
+05-05 01:14 [INFO]: Process ProposalCollector ended.
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25839
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25840
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25841
+05-05 01:14 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25842
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25843
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:14 [INFO]: collectBlock: begin transaction for block 25844
+05-05 01:14 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25845
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25846
+05-05 01:15 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:15 [INFO]: collectReward: Thu May 05 2022 01:14:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:15 [INFO]: collectNetwork: Thu May 05 2022 01:14:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:15 [INFO]: collectPrice: Thu May 05 2022 01:14:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:15 [INFO]: collectGeneral: Thu May 05 2022 01:14:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25847
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25848
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25849
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25850
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: Trying to run process ProposalCollector
+05-05 01:15 [INFO]: Process ProposalCollector starting...
+05-05 01:15 [INFO]: Proposal collector started.
+05-05 01:15 [INFO]: Checking for deleted proposals
+05-05 01:15 [INFO]: Proposal collector completed.
+05-05 01:15 [INFO]: Process ProposalCollector ended.
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25851
+05-05 01:15 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25852
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25853
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25854
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25855
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:15 [INFO]: collectBlock: begin transaction for block 25856
+05-05 01:15 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:15 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25857
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25858
+05-05 01:16 [INFO]: collectReward: Thu May 05 2022 01:15:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:16 [INFO]: collectNetwork: Thu May 05 2022 01:15:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:16 [INFO]: collectPrice: Thu May 05 2022 01:15:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:16 [INFO]: collectGeneral: Thu May 05 2022 01:15:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25859
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25860
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25861
+05-05 01:16 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25862
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: Trying to run process ProposalCollector
+05-05 01:16 [INFO]: Process ProposalCollector starting...
+05-05 01:16 [INFO]: Proposal collector started.
+05-05 01:16 [INFO]: Checking for deleted proposals
+05-05 01:16 [INFO]: Proposal collector completed.
+05-05 01:16 [INFO]: Process ProposalCollector ended.
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25863
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25864
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25865
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25866
+05-05 01:16 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25867
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:16 [INFO]: collectBlock: begin transaction for block 25868
+05-05 01:16 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25869
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25870
+05-05 01:17 [INFO]: collectReward: Thu May 05 2022 01:16:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:17 [INFO]: collectNetwork: Thu May 05 2022 01:16:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:17 [INFO]: collectPrice: Thu May 05 2022 01:16:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:17 [INFO]: collectGeneral: Thu May 05 2022 01:16:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25871
+05-05 01:17 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25872
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25873
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25874
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: Trying to run process ProposalCollector
+05-05 01:17 [INFO]: Process ProposalCollector starting...
+05-05 01:17 [INFO]: Proposal collector started.
+05-05 01:17 [INFO]: Checking for deleted proposals
+05-05 01:17 [INFO]: Proposal collector completed.
+05-05 01:17 [INFO]: Process ProposalCollector ended.
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25875
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25876
+05-05 01:17 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25877
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25878
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25879
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:17 [INFO]: collectBlock: begin transaction for block 25880
+05-05 01:17 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25881
+05-05 01:18 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25882
+05-05 01:18 [INFO]: collectReward: Thu May 05 2022 01:17:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:18 [INFO]: collectNetwork: Thu May 05 2022 01:17:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:18 [INFO]: collectPrice: Thu May 05 2022 01:17:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:18 [INFO]: collectGeneral: Thu May 05 2022 01:17:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25883
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25884
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25885
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25886
+05-05 01:18 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: Trying to run process ProposalCollector
+05-05 01:18 [INFO]: Process ProposalCollector starting...
+05-05 01:18 [INFO]: Proposal collector started.
+05-05 01:18 [INFO]: Checking for deleted proposals
+05-05 01:18 [INFO]: Proposal collector completed.
+05-05 01:18 [INFO]: Process ProposalCollector ended.
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25887
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25888
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25889
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25890
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25891
+05-05 01:18 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:18 [INFO]: collectBlock: begin transaction for block 25892
+05-05 01:18 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25893
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25894
+05-05 01:19 [INFO]: collectReward: Thu May 05 2022 01:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:19 [INFO]: collectNetwork: Thu May 05 2022 01:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:19 [INFO]: collectPrice: Thu May 05 2022 01:18:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:19 [INFO]: collectGeneral: Thu May 05 2022 01:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25895
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25896
+05-05 01:19 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25897
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25898
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: Trying to run process ProposalCollector
+05-05 01:19 [INFO]: Process ProposalCollector starting...
+05-05 01:19 [INFO]: Proposal collector started.
+05-05 01:19 [INFO]: Checking for deleted proposals
+05-05 01:19 [INFO]: Proposal collector completed.
+05-05 01:19 [INFO]: Process ProposalCollector ended.
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25899
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25900
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25901
+05-05 01:19 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25902
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25903
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:19 [INFO]: collectBlock: begin transaction for block 25904
+05-05 01:19 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25905
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25906
+05-05 01:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:20 [INFO]: collectReward: Thu May 05 2022 01:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:20 [INFO]: collectNetwork: Thu May 05 2022 01:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:20 [INFO]: collectPrice: Thu May 05 2022 01:19:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:20 [INFO]: collectGeneral: Thu May 05 2022 01:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25907
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25908
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25909
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25910
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: Trying to run process ProposalCollector
+05-05 01:20 [INFO]: Process ProposalCollector starting...
+05-05 01:20 [INFO]: Proposal collector started.
+05-05 01:20 [INFO]: Checking for deleted proposals
+05-05 01:20 [INFO]: Proposal collector completed.
+05-05 01:20 [INFO]: Process ProposalCollector ended.
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25911
+05-05 01:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25912
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25913
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25914
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25915
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:20 [INFO]: collectBlock: begin transaction for block 25916
+05-05 01:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:20 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25917
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25918
+05-05 01:21 [INFO]: collectReward: Thu May 05 2022 01:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:21 [INFO]: collectNetwork: Thu May 05 2022 01:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:21 [INFO]: collectPrice: Thu May 05 2022 01:20:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:21 [INFO]: collectGeneral: Thu May 05 2022 01:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25919
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25920
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25921
+05-05 01:21 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25922
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: Trying to run process ProposalCollector
+05-05 01:21 [INFO]: Process ProposalCollector starting...
+05-05 01:21 [INFO]: Proposal collector started.
+05-05 01:21 [INFO]: Checking for deleted proposals
+05-05 01:21 [INFO]: Proposal collector completed.
+05-05 01:21 [INFO]: Process ProposalCollector ended.
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25923
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25924
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25925
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25926
+05-05 01:21 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25927
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:21 [INFO]: collectBlock: begin transaction for block 25928
+05-05 01:21 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25929
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25930
+05-05 01:22 [INFO]: collectReward: Thu May 05 2022 01:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:22 [INFO]: collectNetwork: Thu May 05 2022 01:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:22 [INFO]: collectPrice: Thu May 05 2022 01:21:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:22 [INFO]: collectGeneral: Thu May 05 2022 01:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25931
+05-05 01:22 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25932
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25933
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25934
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: Trying to run process ProposalCollector
+05-05 01:22 [INFO]: Process ProposalCollector starting...
+05-05 01:22 [INFO]: Proposal collector started.
+05-05 01:22 [INFO]: Checking for deleted proposals
+05-05 01:22 [INFO]: Proposal collector completed.
+05-05 01:22 [INFO]: Process ProposalCollector ended.
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25935
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25936
+05-05 01:22 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25937
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25938
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25939
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:22 [INFO]: collectBlock: begin transaction for block 25940
+05-05 01:22 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25941
+05-05 01:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25942
+05-05 01:23 [INFO]: collectReward: Thu May 05 2022 01:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:23 [INFO]: collectNetwork: Thu May 05 2022 01:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:23 [INFO]: collectPrice: Thu May 05 2022 01:22:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:23 [INFO]: collectGeneral: Thu May 05 2022 01:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25943
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25944
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25945
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: Trying to run process ProposalCollector
+05-05 01:23 [INFO]: Process ProposalCollector starting...
+05-05 01:23 [INFO]: Proposal collector started.
+05-05 01:23 [INFO]: Checking for deleted proposals
+05-05 01:23 [INFO]: Proposal collector completed.
+05-05 01:23 [INFO]: Process ProposalCollector ended.
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25946
+05-05 01:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: Trying to run process ProposalCollector
+05-05 01:23 [INFO]: Process ProposalCollector starting...
+05-05 01:23 [INFO]: Proposal collector started.
+05-05 01:23 [INFO]: Checking for deleted proposals
+05-05 01:23 [INFO]: Proposal collector completed.
+05-05 01:23 [INFO]: Process ProposalCollector ended.
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25947
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25948
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25949
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25950
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:23 [INFO]: collectBlock: begin transaction for block 25951
+05-05 01:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:23 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25952
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25953
+05-05 01:24 [INFO]: collectReward: Thu May 05 2022 01:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:24 [INFO]: collectNetwork: Thu May 05 2022 01:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:24 [INFO]: collectPrice: Thu May 05 2022 01:23:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:24 [INFO]: collectGeneral: Thu May 05 2022 01:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25954
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25955
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25956
+05-05 01:24 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25957
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: Trying to run process ProposalCollector
+05-05 01:24 [INFO]: Process ProposalCollector starting...
+05-05 01:24 [INFO]: Proposal collector started.
+05-05 01:24 [INFO]: Checking for deleted proposals
+05-05 01:24 [INFO]: Proposal collector completed.
+05-05 01:24 [INFO]: Process ProposalCollector ended.
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25958
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: Trying to run process ProposalCollector
+05-05 01:24 [INFO]: Process ProposalCollector starting...
+05-05 01:24 [INFO]: Proposal collector started.
+05-05 01:24 [INFO]: Checking for deleted proposals
+05-05 01:24 [INFO]: Proposal collector completed.
+05-05 01:24 [INFO]: Process ProposalCollector ended.
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25959
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25960
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25961
+05-05 01:24 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25962
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:24 [INFO]: collectBlock: begin transaction for block 25963
+05-05 01:24 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25964
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25965
+05-05 01:25 [INFO]: collectReward: Thu May 05 2022 01:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:25 [INFO]: collectNetwork: Thu May 05 2022 01:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:25 [INFO]: collectPrice: Thu May 05 2022 01:24:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:25 [INFO]: collectGeneral: Thu May 05 2022 01:24:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25966
+05-05 01:25 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25967
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25968
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25969
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: Trying to run process ProposalCollector
+05-05 01:25 [INFO]: Process ProposalCollector starting...
+05-05 01:25 [INFO]: Proposal collector started.
+05-05 01:25 [INFO]: Checking for deleted proposals
+05-05 01:25 [INFO]: Proposal collector completed.
+05-05 01:25 [INFO]: Process ProposalCollector ended.
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25970
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: Trying to run process ProposalCollector
+05-05 01:25 [INFO]: Process ProposalCollector starting...
+05-05 01:25 [INFO]: Proposal collector started.
+05-05 01:25 [INFO]: Checking for deleted proposals
+05-05 01:25 [INFO]: Proposal collector completed.
+05-05 01:25 [INFO]: Process ProposalCollector ended.
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25971
+05-05 01:25 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25972
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25973
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25974
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:25 [INFO]: collectBlock: begin transaction for block 25975
+05-05 01:25 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25976
+05-05 01:26 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25977
+05-05 01:26 [INFO]: collectReward: Thu May 05 2022 01:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:26 [INFO]: collectNetwork: Thu May 05 2022 01:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:26 [INFO]: collectPrice: Thu May 05 2022 01:25:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:26 [INFO]: collectGeneral: Thu May 05 2022 01:25:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25978
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25979
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25980
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25981
+05-05 01:26 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: Trying to run process ProposalCollector
+05-05 01:26 [INFO]: Process ProposalCollector starting...
+05-05 01:26 [INFO]: Proposal collector started.
+05-05 01:26 [INFO]: Checking for deleted proposals
+05-05 01:26 [INFO]: Proposal collector completed.
+05-05 01:26 [INFO]: Process ProposalCollector ended.
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25982
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: Trying to run process ProposalCollector
+05-05 01:26 [INFO]: Process ProposalCollector starting...
+05-05 01:26 [INFO]: Proposal collector started.
+05-05 01:26 [INFO]: Checking for deleted proposals
+05-05 01:26 [INFO]: Proposal collector completed.
+05-05 01:26 [INFO]: Process ProposalCollector ended.
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25983
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25984
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25985
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25986
+05-05 01:26 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:26 [INFO]: collectBlock: begin transaction for block 25987
+05-05 01:26 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25988
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25989
+05-05 01:27 [INFO]: collectReward: Thu May 05 2022 01:26:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:27 [INFO]: collectNetwork: Thu May 05 2022 01:26:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:27 [INFO]: collectPrice: Thu May 05 2022 01:26:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:27 [INFO]: collectGeneral: Thu May 05 2022 01:26:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25990
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25991
+05-05 01:27 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25992
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25993
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: Trying to run process ProposalCollector
+05-05 01:27 [INFO]: Process ProposalCollector starting...
+05-05 01:27 [INFO]: Proposal collector started.
+05-05 01:27 [INFO]: Checking for deleted proposals
+05-05 01:27 [INFO]: Proposal collector completed.
+05-05 01:27 [INFO]: Process ProposalCollector ended.
+05-05 01:27 [INFO]: Trying to run process ProposalCollector
+05-05 01:27 [INFO]: Process ProposalCollector starting...
+05-05 01:27 [INFO]: Proposal collector started.
+05-05 01:27 [INFO]: Checking for deleted proposals
+05-05 01:27 [INFO]: Proposal collector completed.
+05-05 01:27 [INFO]: Process ProposalCollector ended.
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25994
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25995
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25996
+05-05 01:27 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25997
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25998
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:27 [INFO]: collectBlock: begin transaction for block 25999
+05-05 01:27 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26000
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26001
+05-05 01:28 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:28 [INFO]: collectReward: Thu May 05 2022 01:27:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:28 [INFO]: collectNetwork: Thu May 05 2022 01:27:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:28 [INFO]: collectPrice: Thu May 05 2022 01:27:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:28 [INFO]: collectGeneral: Thu May 05 2022 01:27:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26002
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26003
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26004
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26005
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: Trying to run process ProposalCollector
+05-05 01:28 [INFO]: Process ProposalCollector starting...
+05-05 01:28 [INFO]: Proposal collector started.
+05-05 01:28 [INFO]: Checking for deleted proposals
+05-05 01:28 [INFO]: Proposal collector completed.
+05-05 01:28 [INFO]: Process ProposalCollector ended.
+05-05 01:28 [INFO]: Trying to run process ProposalCollector
+05-05 01:28 [INFO]: Process ProposalCollector starting...
+05-05 01:28 [INFO]: Proposal collector started.
+05-05 01:28 [INFO]: Checking for deleted proposals
+05-05 01:28 [INFO]: Proposal collector completed.
+05-05 01:28 [INFO]: Process ProposalCollector ended.
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26006
+05-05 01:28 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26007
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26008
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26009
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26010
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:28 [INFO]: collectBlock: begin transaction for block 26011
+05-05 01:28 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:28 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26012
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26013
+05-05 01:29 [INFO]: collectReward: Thu May 05 2022 01:28:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:29 [INFO]: collectNetwork: Thu May 05 2022 01:28:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:29 [INFO]: collectPrice: Thu May 05 2022 01:28:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:29 [INFO]: collectGeneral: Thu May 05 2022 01:28:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26014
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26015
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26016
+05-05 01:29 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26017
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: Trying to run process ProposalCollector
+05-05 01:29 [INFO]: Process ProposalCollector starting...
+05-05 01:29 [INFO]: Proposal collector started.
+05-05 01:29 [INFO]: Checking for deleted proposals
+05-05 01:29 [INFO]: Proposal collector completed.
+05-05 01:29 [INFO]: Process ProposalCollector ended.
+05-05 01:29 [INFO]: Trying to run process ProposalCollector
+05-05 01:29 [INFO]: Process ProposalCollector starting...
+05-05 01:29 [INFO]: Proposal collector started.
+05-05 01:29 [INFO]: Checking for deleted proposals
+05-05 01:29 [INFO]: Proposal collector completed.
+05-05 01:29 [INFO]: Process ProposalCollector ended.
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26018
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26019
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26020
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26021
+05-05 01:29 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26022
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:29 [INFO]: collectBlock: begin transaction for block 26023
+05-05 01:29 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26024
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26025
+05-05 01:30 [INFO]: collectReward: Thu May 05 2022 01:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:30 [INFO]: collectNetwork: Thu May 05 2022 01:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:30 [INFO]: collectPrice: Thu May 05 2022 01:29:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:30 [INFO]: collectGeneral: Thu May 05 2022 01:29:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26026
+05-05 01:30 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26027
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26028
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26029
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: Trying to run process ProposalCollector
+05-05 01:30 [INFO]: Process ProposalCollector starting...
+05-05 01:30 [INFO]: Proposal collector started.
+05-05 01:30 [INFO]: Checking for deleted proposals
+05-05 01:30 [INFO]: Proposal collector completed.
+05-05 01:30 [INFO]: Process ProposalCollector ended.
+05-05 01:30 [INFO]: Trying to run process ProposalCollector
+05-05 01:30 [INFO]: Process ProposalCollector starting...
+05-05 01:30 [INFO]: Proposal collector started.
+05-05 01:30 [INFO]: Checking for deleted proposals
+05-05 01:30 [INFO]: Proposal collector completed.
+05-05 01:30 [INFO]: Process ProposalCollector ended.
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26030
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26031
+05-05 01:30 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:30 [INFO]: collectBlock: begin transaction for block 26032
+05-05 01:30 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: RPCWatcher: connection lost
+05-05 01:31 [INFO]: RPCWatcher: connection established
+05-05 01:31 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26033
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26034
+05-05 01:31 [INFO]: collectReward: Thu May 05 2022 01:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:31 [INFO]: collectNetwork: Thu May 05 2022 01:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:31 [INFO]: collectPrice: Thu May 05 2022 01:30:00 GMT+0000 (Coordinated Universal Time) 
+05-05 01:31 [INFO]: collectGeneral: Thu May 05 2022 01:30:00 GMT+0000 (Coordinated Universal Time)
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26035
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26036
+05-05 01:31 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26037
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: Trying to run process ProposalCollector
+05-05 01:31 [INFO]: Process ProposalCollector starting...
+05-05 01:31 [INFO]: Proposal collector started.
+05-05 01:31 [INFO]: Checking for deleted proposals
+05-05 01:31 [INFO]: Proposal collector completed.
+05-05 01:31 [INFO]: Process ProposalCollector ended.
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26038
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26039
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26040
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 01:31 [INFO]: collectBlock: begin transaction for block 26041
+05-05 01:31 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 01:31 [INFO]: collectBlock: transaction finished
+05-05 02:00 [INFO]: collectBlock: begin transaction for block 26042
+05-05 02:00 [INFO]: collectBlock: transaction finished
+05-05 02:00 [INFO]: collectBlock: begin transaction for block 26043
+05-05 02:00 [INFO]: collectBlock: transaction finished
+05-05 02:00 [INFO]: collectBlock: begin transaction for block 26044
+05-05 02:00 [INFO]: collectReward: Thu May 05 2022 01:59:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:00 [INFO]: collectNetwork: Thu May 05 2022 01:59:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:00 [INFO]: collectPrice: Thu May 05 2022 01:59:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:00 [INFO]: collectGeneral: Thu May 05 2022 01:59:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:00 [INFO]: collectBlock: transaction finished
+05-05 02:00 [INFO]: collectBlock: begin transaction for block 26045
+05-05 02:00 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26046
+05-05 02:01 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26047
+05-05 02:01 [INFO]: collectReward: Thu May 05 2022 02:00:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:01 [INFO]: collectNetwork: Thu May 05 2022 02:00:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:01 [INFO]: collectPrice: Thu May 05 2022 02:00:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:01 [INFO]: collectGeneral: Thu May 05 2022 02:00:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26048
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26049
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26050
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26051
+05-05 02:01 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: Trying to run process ValidatorCollector
+05-05 02:01 [INFO]: Process ValidatorCollector starting...
+05-05 02:01 [INFO]: Trying to run process ProposalCollector
+05-05 02:01 [INFO]: Process ProposalCollector starting...
+05-05 02:01 [INFO]: Proposal collector started.
+05-05 02:01 [INFO]: collectValidator: total 1 validators
+05-05 02:01 [INFO]: Checking for deleted proposals
+05-05 02:01 [INFO]: collectValidator: localterra(terravaloper1dcegyrekltswvyy0xy69ydgxn9x8x32zdy3ua5)
+05-05 02:01 [INFO]: collectValidator: end
+05-05 02:01 [INFO]: Process ValidatorCollector ended.
+05-05 02:01 [INFO]: Proposal collector completed.
+05-05 02:01 [INFO]: Process ProposalCollector ended.
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26052
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26053
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26054
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26055
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26056
+05-05 02:01 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:01 [INFO]: collectBlock: begin transaction for block 26057
+05-05 02:01 [INFO]: collectBlock: transaction finished
+05-05 02:02 [INFO]: collectBlock: begin transaction for block 26058
+05-05 02:02 [INFO]: collectBlock: transaction finished
+05-05 02:02 [INFO]: collectBlock: begin transaction for block 26059
+05-05 02:02 [INFO]: collectReward: Thu May 05 2022 02:01:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:02 [INFO]: collectNetwork: Thu May 05 2022 02:01:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:02 [INFO]: collectPrice: Thu May 05 2022 02:01:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:02 [INFO]: collectGeneral: Thu May 05 2022 02:01:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:02 [INFO]: collectBlock: transaction finished
+05-05 02:02 [INFO]: collectBlock: begin transaction for block 26060
+05-05 02:02 [INFO]: collectBlock: transaction finished
+05-05 02:02 [INFO]: collectBlock: begin transaction for block 26061
+05-05 02:02 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:02 [INFO]: collectBlock: transaction finished
+05-05 02:19 [INFO]: RPCWatcher: connection lost
+05-05 02:19 [INFO]: RPCWatcher: connection established
+05-05 02:19 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 02:19 [INFO]: collectBlock: begin transaction for block 26062
+05-05 02:19 [INFO]: collectBlock: transaction finished
+05-05 02:19 [INFO]: collectBlock: begin transaction for block 26063
+05-05 02:19 [INFO]: collectReward: Thu May 05 2022 02:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:19 [INFO]: collectNetwork: Thu May 05 2022 02:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:19 [INFO]: collectPrice: Thu May 05 2022 02:18:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:19 [INFO]: collectGeneral: Thu May 05 2022 02:18:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:19 [INFO]: collectBlock: transaction finished
+05-05 02:19 [INFO]: collectBlock: begin transaction for block 26064
+05-05 02:19 [INFO]: collectBlock: transaction finished
+05-05 02:19 [INFO]: collectBlock: begin transaction for block 26065
+05-05 02:19 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26066
+05-05 02:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26067
+05-05 02:20 [INFO]: collectReward: Thu May 05 2022 02:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:20 [INFO]: collectNetwork: Thu May 05 2022 02:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:20 [INFO]: collectPrice: Thu May 05 2022 02:19:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:20 [INFO]: collectGeneral: Thu May 05 2022 02:19:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26068
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26069
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26070
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: Trying to run process ProposalCollector
+05-05 02:20 [INFO]: Process ProposalCollector starting...
+05-05 02:20 [INFO]: Proposal collector started.
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26071
+05-05 02:20 [INFO]: Checking for deleted proposals
+05-05 02:20 [INFO]: Proposal collector completed.
+05-05 02:20 [INFO]: Process ProposalCollector ended.
+05-05 02:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26072
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26073
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26074
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26075
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:20 [INFO]: collectBlock: begin transaction for block 26076
+05-05 02:20 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:20 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26077
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26078
+05-05 02:21 [INFO]: collectReward: Thu May 05 2022 02:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:21 [INFO]: collectNetwork: Thu May 05 2022 02:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:21 [INFO]: collectPrice: Thu May 05 2022 02:20:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:21 [INFO]: collectGeneral: Thu May 05 2022 02:20:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26079
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26080
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26081
+05-05 02:21 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26082
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: Trying to run process ProposalCollector
+05-05 02:21 [INFO]: Process ProposalCollector starting...
+05-05 02:21 [INFO]: Proposal collector started.
+05-05 02:21 [INFO]: Checking for deleted proposals
+05-05 02:21 [INFO]: Proposal collector completed.
+05-05 02:21 [INFO]: Process ProposalCollector ended.
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26083
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26084
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26085
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26086
+05-05 02:21 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26087
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:21 [INFO]: collectBlock: begin transaction for block 26088
+05-05 02:21 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26089
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26090
+05-05 02:22 [INFO]: collectReward: Thu May 05 2022 02:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:22 [INFO]: collectNetwork: Thu May 05 2022 02:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:22 [INFO]: collectPrice: Thu May 05 2022 02:21:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:22 [INFO]: collectGeneral: Thu May 05 2022 02:21:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26091
+05-05 02:22 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26092
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26093
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26094
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: Trying to run process ProposalCollector
+05-05 02:22 [INFO]: Process ProposalCollector starting...
+05-05 02:22 [INFO]: Proposal collector started.
+05-05 02:22 [INFO]: Checking for deleted proposals
+05-05 02:22 [INFO]: Proposal collector completed.
+05-05 02:22 [INFO]: Process ProposalCollector ended.
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26095
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26096
+05-05 02:22 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26097
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26098
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26099
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:22 [INFO]: collectBlock: begin transaction for block 26100
+05-05 02:22 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26101
+05-05 02:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26102
+05-05 02:23 [INFO]: collectReward: Thu May 05 2022 02:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:23 [INFO]: collectNetwork: Thu May 05 2022 02:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:23 [INFO]: collectPrice: Thu May 05 2022 02:22:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:23 [INFO]: collectGeneral: Thu May 05 2022 02:22:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26103
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26104
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26105
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26106
+05-05 02:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: Trying to run process ProposalCollector
+05-05 02:23 [INFO]: Process ProposalCollector starting...
+05-05 02:23 [INFO]: Proposal collector started.
+05-05 02:23 [INFO]: Checking for deleted proposals
+05-05 02:23 [INFO]: Proposal collector completed.
+05-05 02:23 [INFO]: Process ProposalCollector ended.
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26107
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26108
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26109
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26110
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26111
+05-05 02:23 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:23 [INFO]: collectBlock: begin transaction for block 26112
+05-05 02:23 [INFO]: collectBlock: transaction finished
+05-05 02:24 [INFO]: collectBlock: begin transaction for block 26113
+05-05 02:24 [INFO]: collectBlock: transaction finished
+05-05 02:24 [INFO]: collectBlock: begin transaction for block 26114
+05-05 02:24 [INFO]: collectReward: Thu May 05 2022 02:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:24 [INFO]: collectNetwork: Thu May 05 2022 02:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:24 [INFO]: collectPrice: Thu May 05 2022 02:23:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:24 [INFO]: collectGeneral: Thu May 05 2022 02:23:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:24 [INFO]: collectBlock: transaction finished
+05-05 02:24 [INFO]: collectBlock: begin transaction for block 26115
+05-05 02:24 [INFO]: collectBlock: transaction finished
+05-05 02:24 [INFO]: collectBlock: begin transaction for block 26116
+05-05 02:24 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:24 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: RPCWatcher: connection lost
+05-05 02:37 [INFO]: RPCWatcher: connection established
+05-05 02:37 [INFO]: RPCWatcher: registering tm.event='NewBlock'
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26117
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26118
+05-05 02:37 [INFO]: collectReward: Thu May 05 2022 02:36:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:37 [INFO]: collectNetwork: Thu May 05 2022 02:36:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:37 [INFO]: collectPrice: Thu May 05 2022 02:36:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:37 [INFO]: collectGeneral: Thu May 05 2022 02:36:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: Trying to run process ProposalCollector
+05-05 02:37 [INFO]: Process ProposalCollector starting...
+05-05 02:37 [INFO]: Proposal collector started.
+05-05 02:37 [INFO]: Checking for deleted proposals
+05-05 02:37 [INFO]: Proposal collector completed.
+05-05 02:37 [INFO]: Process ProposalCollector ended.
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26119
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26120
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26121
+05-05 02:37 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26122
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26123
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:37 [INFO]: collectBlock: begin transaction for block 26124
+05-05 02:37 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26125
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26126
+05-05 02:38 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:38 [INFO]: collectReward: Thu May 05 2022 02:37:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:38 [INFO]: collectNetwork: Thu May 05 2022 02:37:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:38 [INFO]: collectPrice: Thu May 05 2022 02:37:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:38 [INFO]: collectGeneral: Thu May 05 2022 02:37:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26127
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26128
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26129
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26130
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: Trying to run process ProposalCollector
+05-05 02:38 [INFO]: Process ProposalCollector starting...
+05-05 02:38 [INFO]: Proposal collector started.
+05-05 02:38 [INFO]: Checking for deleted proposals
+05-05 02:38 [INFO]: Proposal collector completed.
+05-05 02:38 [INFO]: Process ProposalCollector ended.
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26131
+05-05 02:38 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26132
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26133
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26134
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26135
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:38 [INFO]: collectBlock: begin transaction for block 26136
+05-05 02:38 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:38 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26137
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26138
+05-05 02:39 [INFO]: collectReward: Thu May 05 2022 02:38:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:39 [INFO]: collectNetwork: Thu May 05 2022 02:38:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:39 [INFO]: collectPrice: Thu May 05 2022 02:38:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:39 [INFO]: collectGeneral: Thu May 05 2022 02:38:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26139
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26140
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26141
+05-05 02:39 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26142
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: Trying to run process ProposalCollector
+05-05 02:39 [INFO]: Process ProposalCollector starting...
+05-05 02:39 [INFO]: Proposal collector started.
+05-05 02:39 [INFO]: Checking for deleted proposals
+05-05 02:39 [INFO]: Proposal collector completed.
+05-05 02:39 [INFO]: Process ProposalCollector ended.
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26143
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26144
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26145
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26146
+05-05 02:39 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26147
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:39 [INFO]: collectBlock: begin transaction for block 26148
+05-05 02:39 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26149
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26150
+05-05 02:40 [INFO]: collectReward: Thu May 05 2022 02:39:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:40 [INFO]: collectNetwork: Thu May 05 2022 02:39:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:40 [INFO]: collectPrice: Thu May 05 2022 02:39:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:40 [INFO]: collectGeneral: Thu May 05 2022 02:39:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26151
+05-05 02:40 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26152
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26153
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26154
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: Trying to run process ProposalCollector
+05-05 02:40 [INFO]: Process ProposalCollector starting...
+05-05 02:40 [INFO]: Proposal collector started.
+05-05 02:40 [INFO]: Checking for deleted proposals
+05-05 02:40 [INFO]: Proposal collector completed.
+05-05 02:40 [INFO]: Process ProposalCollector ended.
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26155
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26156
+05-05 02:40 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26157
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26158
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26159
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:40 [INFO]: collectBlock: begin transaction for block 26160
+05-05 02:40 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26161
+05-05 02:41 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26162
+05-05 02:41 [INFO]: collectReward: Thu May 05 2022 02:40:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:41 [INFO]: collectNetwork: Thu May 05 2022 02:40:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:41 [INFO]: collectPrice: Thu May 05 2022 02:40:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:41 [INFO]: collectGeneral: Thu May 05 2022 02:40:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26163
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26164
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26165
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26166
+05-05 02:41 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: Trying to run process ProposalCollector
+05-05 02:41 [INFO]: Process ProposalCollector starting...
+05-05 02:41 [INFO]: Proposal collector started.
+05-05 02:41 [INFO]: Checking for deleted proposals
+05-05 02:41 [INFO]: Proposal collector completed.
+05-05 02:41 [INFO]: Process ProposalCollector ended.
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26167
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26168
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26169
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26170
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26171
+05-05 02:41 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:41 [INFO]: collectBlock: begin transaction for block 26172
+05-05 02:41 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26173
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26174
+05-05 02:42 [INFO]: collectReward: Thu May 05 2022 02:41:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:42 [INFO]: collectNetwork: Thu May 05 2022 02:41:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:42 [INFO]: collectPrice: Thu May 05 2022 02:41:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:42 [INFO]: collectGeneral: Thu May 05 2022 02:41:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26175
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26176
+05-05 02:42 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26177
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26178
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: Trying to run process ProposalCollector
+05-05 02:42 [INFO]: Process ProposalCollector starting...
+05-05 02:42 [INFO]: Proposal collector started.
+05-05 02:42 [INFO]: Checking for deleted proposals
+05-05 02:42 [INFO]: Proposal collector completed.
+05-05 02:42 [INFO]: Process ProposalCollector ended.
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26179
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26180
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26181
+05-05 02:42 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26182
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26183
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:42 [INFO]: collectBlock: begin transaction for block 26184
+05-05 02:42 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26185
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26186
+05-05 02:43 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:43 [INFO]: collectReward: Thu May 05 2022 02:42:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:43 [INFO]: collectNetwork: Thu May 05 2022 02:42:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:43 [INFO]: collectPrice: Thu May 05 2022 02:42:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:43 [INFO]: collectGeneral: Thu May 05 2022 02:42:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26187
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26188
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26189
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26190
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: Trying to run process ProposalCollector
+05-05 02:43 [INFO]: Process ProposalCollector starting...
+05-05 02:43 [INFO]: Proposal collector started.
+05-05 02:43 [INFO]: Checking for deleted proposals
+05-05 02:43 [INFO]: Proposal collector completed.
+05-05 02:43 [INFO]: Process ProposalCollector ended.
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26191
+05-05 02:43 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26192
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26193
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26194
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26195
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:43 [INFO]: collectBlock: begin transaction for block 26196
+05-05 02:43 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:43 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26197
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26198
+05-05 02:44 [INFO]: collectReward: Thu May 05 2022 02:43:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:44 [INFO]: collectNetwork: Thu May 05 2022 02:43:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:44 [INFO]: collectPrice: Thu May 05 2022 02:43:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:44 [INFO]: collectGeneral: Thu May 05 2022 02:43:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26199
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26200
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26201
+05-05 02:44 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26202
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: Trying to run process ProposalCollector
+05-05 02:44 [INFO]: Process ProposalCollector starting...
+05-05 02:44 [INFO]: Proposal collector started.
+05-05 02:44 [INFO]: Checking for deleted proposals
+05-05 02:44 [INFO]: Proposal collector completed.
+05-05 02:44 [INFO]: Process ProposalCollector ended.
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26203
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26204
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26205
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26206
+05-05 02:44 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26207
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:44 [INFO]: collectBlock: begin transaction for block 26208
+05-05 02:44 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26209
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26210
+05-05 02:45 [INFO]: collectReward: Thu May 05 2022 02:44:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:45 [INFO]: collectNetwork: Thu May 05 2022 02:44:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:45 [INFO]: collectPrice: Thu May 05 2022 02:44:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:45 [INFO]: collectGeneral: Thu May 05 2022 02:44:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26211
+05-05 02:45 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26212
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26213
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26214
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: Trying to run process ProposalCollector
+05-05 02:45 [INFO]: Process ProposalCollector starting...
+05-05 02:45 [INFO]: Proposal collector started.
+05-05 02:45 [INFO]: Checking for deleted proposals
+05-05 02:45 [INFO]: Proposal collector completed.
+05-05 02:45 [INFO]: Process ProposalCollector ended.
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26215
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26216
+05-05 02:45 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26217
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26218
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26219
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:45 [INFO]: collectBlock: begin transaction for block 26220
+05-05 02:45 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26221
+05-05 02:46 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26222
+05-05 02:46 [INFO]: collectReward: Thu May 05 2022 02:45:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:46 [INFO]: collectNetwork: Thu May 05 2022 02:45:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:46 [INFO]: collectPrice: Thu May 05 2022 02:45:00 GMT+0000 (Coordinated Universal Time) 
+05-05 02:46 [INFO]: collectGeneral: Thu May 05 2022 02:45:00 GMT+0000 (Coordinated Universal Time)
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26223
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26224
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26225
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26226
+05-05 02:46 [INFO]: SaveTxs - txs: 1, accountTxs: 1
+05-05 02:46 [INFO]: collectBlock: transaction finished
+05-05 02:46 [INFO]: Trying to run process ProposalCollector
+05-05 02:46 [INFO]: Process ProposalCollector starting...
+05-05 02:46 [INFO]: Proposal collector started.
+05-05 02:46 [INFO]: Checking for deleted proposals
+05-05 02:46 [INFO]: Proposal collector completed.
+05-05 02:46 [INFO]: Process ProposalCollector ended.
+05-05 02:46 [INFO]: collectBlock: begin transaction for block 26227
+05-05 02:46 [INFO]: collectBlock: transaction finished
